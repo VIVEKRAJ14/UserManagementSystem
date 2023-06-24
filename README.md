@@ -1,4 +1,4 @@
-<h1 align="center"> 👤User management system👤</h1>
+<h1 align="center"> 👤User Management System👤</h1>
 
 >### Framework Used 
 * [SpringBoot](javatpoint.com/spring-boot-tutorial)
